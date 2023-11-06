@@ -1,0 +1,18 @@
+.create-project-form{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.priority-1 {
+  color: green;
+}
+.priority-2 {
+  color:rgb(255, 200, 0)
+}
+.priority-3 {
+  color: rgb(255, 145, 0)
+}
+.priority-4 {
+  color: red
+}

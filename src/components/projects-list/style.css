@@ -1,0 +1,12 @@
+.projects-wrapper{
+  gap: 15px;
+  display: flex;
+  padding: 20px 15px;
+  overflow: scroll;
+}
+
+.temp{
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
